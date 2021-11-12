@@ -1,4 +1,4 @@
-1. Minimum Cost of ropes 
+# 1. Minimum Cost of ropes 
 
 Link: https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#
 
@@ -15,7 +15,7 @@ Multiset : https://www.geeksforgeeks.org/multiset-in-cpp-stl/
 
 Time Complexity: O(nLogn);
 
-2. Longest Valid Parentheses
+# 2. Longest Valid Parentheses
 
 Link: https://leetcode.com/problems/longest-valid-parentheses/
 
