@@ -17,7 +17,7 @@ Space Complexity : O(1)
 
 Link: https://www.chegg.com/homework-help/questions-and-answers/n-cranes-numbered-0-n-1-arranged-line-along-road-road-begins-position-0-k-th-crane-located-q83338199
 
-Used vector of a pair of ranges for each crane. And compared the intervals for each crane after sorting it. (the start of [i+1]th range to the end of [ith] range).
+Used vector of a pair of ranges for each crane. And compared the intervals for each crane after sorting it. (the start of [i+1]th range to the end of [ith] range)
 
 Time Complexity: O(A.size())
 
