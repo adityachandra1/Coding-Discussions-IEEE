@@ -17,3 +17,13 @@ Link: https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-15871156
 2. Longest Valid Parentheses
 
 Link: https://leetcode.com/problems/longest-valid-parentheses/
+
+### 19-11-2021:
+1. Closest Stores 
+
+Link : Discord
+
+2. Most Booked Rooms
+
+Link : Discord
+
