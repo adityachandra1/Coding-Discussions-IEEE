@@ -21,9 +21,9 @@ Link: https://leetcode.com/problems/longest-valid-parentheses/
 ### 19-11-2021:
 1. Closest Stores 
 
-Link : Discord
+Link : https://discordapp.com/channels/876011519140302849/882603749846171668/911288517760536577 
 
 2. Most Booked Rooms
 
-Link : Discord
+Link : https://discordapp.com/channels/876011519140302849/882603749846171668/911288562262097970
 
