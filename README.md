@@ -28,4 +28,6 @@ Link : https://discordapp.com/channels/876011519140302849/882603749846171668/911
 Link : https://discordapp.com/channels/876011519140302849/882603749846171668/911288562262097970
 
 
-### Doc Link for previous discussions
+### Solutions for previous discussions 
+
+https://docs.google.com/document/d/1jMbrFHtTS9tJb1MYoRD2IvhchE6LnC74j1HZGEGt1_M/edit
